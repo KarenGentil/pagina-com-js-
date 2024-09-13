@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+header{
+    background-color: white;
+    padding: ;
+    margin: 20px;
+    color: #c5a8d8;
+}
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #c5a8d8;
+
+    }
+
+    img{
+        border-radius: 850px;
+        width: 150px;
+    }
+
+
+button{
+
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#informacao{
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
